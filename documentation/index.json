@@ -1,0 +1,60 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Documentation on Hugo Zen theme",
+    "description": "Recent content in Documentation on Hugo Zen theme",
+    "home_page_url" : "https://arsenaid.github.io/",
+    "feed_url" : "https://arsenaid.github.io/documentation/index.json",
+    "icon" : "https://arsenaid.github.io/apple-touch-icon.png",
+    "favicon" : "https://arsenaid.github.io/apple-touch-icon.png",
+    "author" : {
+        "name" : "Your Name",
+        "url": "https://example.org/somepage",
+        "avatar": "https://arsenaid.github.io/path/to/some-image.jpg"
+    },
+    "items" : [
+    {
+        "title" : "Configuration",
+        "date_published" : "0001-01-01T00:00:00Z",
+        "date_modified" : "0001-01-01T00:00:00Z",
+        "id" : "https://arsenaid.github.io/documentation/configuration/",
+        "url" : "https://arsenaid.github.io/documentation/configuration/",
+        "author" : {
+          "name" : "Fredrik Jonsson"
+        },
+        "content_html" : "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Create a theme",
+        "date_published" : "0001-01-01T00:00:00Z",
+        "date_modified" : "0001-01-01T00:00:00Z",
+        "id" : "https://arsenaid.github.io/documentation/create-theme/",
+        "url" : "https://arsenaid.github.io/documentation/create-theme/",
+        "author" : {
+          "name" : "Fredrik Jonsson"
+        },
+        "content_html" : "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Installation",
+        "date_published" : "0001-01-01T00:00:00Z",
+        "date_modified" : "0001-01-01T00:00:00Z",
+        "id" : "https://arsenaid.github.io/documentation/install/",
+        "url" : "https://arsenaid.github.io/documentation/install/",
+        "author" : {
+          "name" : "Fredrik Jonsson"
+        },
+        "content_html" : "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+    },
+    {
+        "title" : "Quickstart",
+        "date_published" : "0001-01-01T00:00:00Z",
+        "date_modified" : "0001-01-01T00:00:00Z",
+        "id" : "https://arsenaid.github.io/documentation/quickstart/",
+        "url" : "https://arsenaid.github.io/documentation/quickstart/",
+        "author" : {
+          "name" : "Fredrik Jonsson"
+        },
+        "content_html" : "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+    }
+    ]
+}
